@@ -1,0 +1,20 @@
+# 🍽️ Recipes Web Project
+
+## 🚀 Project Description
+A beginner-friendly HTML project that showcases multiple food recipes.  
+Each recipe includes ingredients, preparation steps, and images.
+
+## 🎯 Objectives
+- Practice HTML fundamentals
+- Learn how to structure a multi-page project
+- Understand linking between pages
+- Apply proper folder organization
+
+## 🛠 Features
+- Homepage with recipe list
+- Individual recipe pages
+- Images for each recipe
+- Clean and simple layout
+
+## 📚 Lessons Learned
+I learned how to properly link pages using relative paths and improved my understanding of HTML document structure.
